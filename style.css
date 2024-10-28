@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(53, 53, 53);
+    font-family: "Courier New", "Brush Script MT", "Arial";
+}
+.home-title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    background-color: rgba(201, 201, 201, 0.5);
+}
+.links,
+li a{
+    font-size: 18px;
+    color: #000000;
+}
+.links{
+    background-color: rgb(255, 255, 255);
+}
