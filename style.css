@@ -13,6 +13,17 @@ li a{
     font-size: 18px;
     color: #000000;
 }
+.links-container{
+    display: block;
+    background-color: grey;
+    height: 150px;
+    text-align: center;
+
+}
 .links{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(252, 252, 252);
+    display: inline-block;
+}
+.links li{
+    position: inline;
 }
